@@ -1,0 +1,12 @@
+.flexContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+.inputStyle{
+  font-size: 1.5em;
+  padding: 3px;
+  display: inline-block;
+  width: 30%;
+}
