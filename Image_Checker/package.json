@@ -8,6 +8,8 @@
     "download": "^7.1.0",
     "file-saver": "^2.0.1",
     "react": "^16.8.4",
+    "react-cookie": "^4.0.1",
+    "react-cookies": "^0.1.1",
     "react-dom": "^16.8.4",
     "react-download-link": "^2.2.0",
     "react-scripts": "2.1.8",
